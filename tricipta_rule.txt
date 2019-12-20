@@ -1,6 +1,5 @@
 PT. Tri Cipta Internasional
-Pada tahun tahun depan kita menggunakan github untuk melakukan kegiatan kita
-tolong tambahkan saran :
+Pada tahun tahun depan kita menggunakan github untuk melakukan kegiatan kita :
 1. desain project harus sesuai kebutuhan user
 2. pastikan semua data telah dikumpulkan
-3. selanjutnya pastikan data telah terisi.
+3. uji coba data yang dulu mas yaa
