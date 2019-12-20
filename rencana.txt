@@ -2,3 +2,5 @@ rencana buat sistem :
 buat sistem pengujian
 buat sistem terminal
 buat sistem uji coba
+  1. uji coba sistem terminal
+  2. uji coba sistem pertama
